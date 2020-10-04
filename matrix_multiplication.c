@@ -87,7 +87,7 @@ int main()
 
     else
     {
-        printf("matrices cannot be multiplied due their orders");
+        printf("matrices cannot be multiplied due to their orders");
     }
     printf("Hope you liked the program!");
     return 0;
